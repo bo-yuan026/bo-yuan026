@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作業01</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        p {
+            padding: 5px;
+            margin: 10px;
+        }
+        
+        div {
+            width: 1200px;
+            border: 3px solid black;
+            margin: auto;
+        }
+        
+        img {
+            width: 500px;
+        }
+        
+        figure {
+            background-color: grey;
+            padding: 5px;
+            float: left;
+        }
+        
+        h2 {
+            font-family: 標楷體;
+            background-color: rgb(231, 83, 15);
+            padding: 5px;
+            margin: 5px;
+            text-align: center;
+        }
+        
+        .title {
+            padding: 1px;
+            margin: 1px;
+            font-size: 10px;
+            background-color: lightgray;
+            color: rgb(90, 83, 83);
+        }
+        
+        .right {
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+
+        <h2>季後賽前能歸隊？ Harden：非常有信心</h2>
+
+        <p class="title">賴意文 &nbsp;2021年5月7日 週五 上午10:20·2 分鐘 (閱讀時間)</p>
+
+        <hr />
+
+        <figure>
+
+            <a href="https://reurl.cc/kVxqzG" target="_blank"><img src="harden.jpg" alt="球星James Harden" title="鬍子哥"></a>
+
+            <figcaption>
+
+                籃網球星James Harden.
+
+            </figcaption>
+
+        </figure>
+
+        <p class="right">近1個月因右大腿筋受傷沒出賽，已連續缺陣15場比賽的布魯克林籃網球星James Harden今天（7日）表示，他「非常有信心」能在季後賽開打前傷癒歸隊，甚至不排除在接下來的4場客場之旅就歸隊。</p>
+
+        <p>「我們的計畫是要在季後賽之前打幾場比賽。現在就1天1天來。」Harden說。在5月23日開打的季後賽前，籃網還有6場例行賽要打。 明天起他們要進行4場比賽的客場之旅，先後對上密爾瓦基公鹿、猶他爵士、波特蘭拓荒者，洛杉磯湖人。 在15日回到主場對戰洛杉磯快艇後，17日例行賽終戰在客場對亞特蘭大老鷹。
+        </p>
+
+        <p>在他能夠歸隊前，Harden還需要經過幾次練球以確定自己的狀況沒問題，他表示目前還在加強自己的體能狀態，以及變換速度與方向。 他說：「目前為止都很好，今天訓練的狀況很好，就只是要再進一步加強而已。」
+        </p>
+
+        <p>擁有Harden、Kevin Durant、Kyrie Irving等3大球星的籃網被視為本季奪冠熱門。 他們是東區第1支確定晉級季後賽球隊，目前暫居東區第2，但其實這3名球星因為先後受傷與其他個人因素，至今只有同場出賽過7場比賽。
+
+        </p>
+
+        <p>Harden也進一步透露復出規劃，「我們的計劃是希望能在季後賽開打前幾場復出，但還是要一步一步來」。 他也強調必須保持耐心，讓身體恢復到最佳狀態迎接季後賽。
+        </p>
+
+        <p>James Harden加盟籃網後繳出場均25.4分、8.7籃板、11助攻的全能成績，而在他缺陣的比賽中，籃網戰績僅有9勝11敗。 目前苦吞本季最長的4連敗，影響顯而易見。
+        </p>
+
+        <p>無論如何，Harden表示他相信籃網的能力：「這支球隊擁有其他許多球隊沒有的東西之一就是球員的能力，這部分我們不必擔心。 在技術方面，我們是菁英。」
+        </p>
+
+    </div>
+</body>
+
+</html>
